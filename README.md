@@ -166,3 +166,17 @@ A major finding of this research is that:
 This work is part of a PhD research on solar energy forecasting and contributes to advancing AI-driven solutions for sustainable energy systems.
 This research was supported by the Scientific Research Projects (BAP) Coordination Unit of Istanbul Technical University  
 (Project ID: 44133, Project Code: MDK-2022-44133).
+
+---
+
+## 📌 How to Cite
+
+If you use this repository, please cite:
+
+Saadati, T., & Barutcu, B. (2025a).  
+Forecasting Solar Energy: Leveraging Artificial Intelligence and Machine Learning for Sustainable Energy Solutions.  
+Journal of Economic Surveys.
+
+Saadati, T., & Barutcu, B. (2025b).  
+Optimized Solar Energy Forecasting for Sustainable Development Using Machine Learning, Deep Learning, and Chaotic Models.  
+International Journal of Energy Economics and Policy, 15(1), 110–120.
